@@ -1,4 +1,4 @@
 #let's connect
 
-* *twitter:* @ghofweber
-* *linkedin:* https://www.linkedin.com/in/hofweber/
+- _twitter:_ [@ghofweber](https://twitter.com/ghofweber)
+- _linkedin:_ [hofweber](https://www.linkedin.com/in/hofweber/)
